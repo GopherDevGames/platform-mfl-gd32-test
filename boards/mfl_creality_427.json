@@ -20,7 +20,7 @@
       ]
     ],
     "mfl_sub_series": "HD",
-    "variant": "MFL_CREALITY_422"
+    "variant": "MFL_CREALITY_427"
   },
   "debug": {
     "svd_path": "GD32F30x_HD.svd",
@@ -32,7 +32,7 @@
   "frameworks": [
     "arduino"
   ],
-  "name": "Creality 4.2.2 GD32F303RET6 (64k RAM, 512k Flash)",
+  "name": "Creality 4.2.7 GD32F303RET6 (64k RAM, 512k Flash)",
   "upload": {
     "disable_flushing": false,
     "maximum_ram_size": 65536,
