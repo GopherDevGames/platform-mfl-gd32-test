@@ -36,7 +36,7 @@
   "upload": {
     "disable_flushing": false,
     "maximum_ram_size": 30000,
-    "maximum_size": 100000,
+    "maximum_size": 131072,
     "protocol": "",
     "protocols": [
       ""
